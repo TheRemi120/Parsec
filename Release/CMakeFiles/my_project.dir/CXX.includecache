@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user2015/parsec-2021-TheRemi120/my_projet/main_rasp.cpp
+mylib.h
+/home/user2015/parsec-2021-TheRemi120/my_projet/mylib.h
+opencv2/opencv.hpp
+/home/user2015/parsec-2021-TheRemi120/my_projet/opencv2/opencv.hpp
+iostream
+-
+
+/home/user2015/parsec-2021-TheRemi120/my_projet/mylib.h
+opencv2/opencv.hpp
+/home/user2015/parsec-2021-TheRemi120/my_projet/opencv2/opencv.hpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+iostream
+-
+
